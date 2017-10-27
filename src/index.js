@@ -1,6 +1,6 @@
-import Tabs from './Tabs'
-import TabList from './TabList'
-import TabPane from './TabPane'
+import Tabs from './Tabs.vue'
+import TabList from './TabList.vue'
+import TabPane from './TabPane.vue'
 
 export {
   Tabs,
